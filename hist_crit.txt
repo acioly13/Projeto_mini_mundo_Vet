@@ -1,0 +1,55 @@
+Histórias e Critérios de Aceitação 
+
+História: 
+
+    Como proprietária quero levar meu gato ao veterinário 
+
+Critérios de Aceitação: 
+
+    -Ela deverá se cadastrar informando CPF, Nome e endereço 
+
+    -Após a consulta seu animal também será registrado com código da consulta, tipo de animal, raça, nome e descrição da consulta 
+
+    -Ambos vão ser salvos no banco de dados para agilizar os processos no futuro 
+
+ 
+
+História: 
+
+    Como proprietária quero levar meu gato ao veterinário de novo 
+
+Critérios de Aceitação: 
+
+    -Ela deverá informar CPF 
+
+    -Após a consulta os dados sobre o animal serão atualizados  agilizar os processos no futuro
+
+
+História: 
+	Proprietária informa algum de seus dados errados
+
+Critérios de Aceitação:
+
+	-Será feita a revisão do dado errado
+	-O mesmo será que ter apagado para então colocar o certo
+
+
+História:
+
+	Proprietário de mais idade não sabe informar todos seus dados
+
+Critérios de Aceitação:
+
+	-Único dado obrigatorio será o cpf dele ou de algum responsavel pelo animal
+	-Animal receberá um codigo da consulta por onde será identificado
+
+
+História:
+
+	Proprietário não vai buscar seu animal no dia agendado
+
+Critérios de Aceitação:
+
+	-Com os dados que ele deu(CPF, Nome, Email) será enviado emails diariamente durante 3 dias
+	-Passado 3 dias o envio dos emails será a cada hora até que o animal seja levado
+	-Não informado o por que da demora para buscar o animal será aplicado multa

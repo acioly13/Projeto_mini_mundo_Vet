@@ -1,0 +1,7 @@
+Em um consultório veterinário com CNPJ e Endereço trabalham seus proprietários
+Com CRMV, nome e e-mail  são identificados.
+Atendendo a donos que precisam dar seu CPF, nome e email para agendar ou levar o animal para ser consultados e assim ficar salvo no banco de dados do consultório.
+Fazem as consultas em seu pequeno consultório atendendo apenas 2 tipos de animais  gatos e cachorros.
+Classificados com  tipo de animal, raça e nome. 
+
+ 
